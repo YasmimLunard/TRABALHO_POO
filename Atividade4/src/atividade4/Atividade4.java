@@ -6,7 +6,7 @@ public class Atividade4 {
 
     
     public static void main(String[] args) {
-       int[] vetorA = {56, 78, 32, 15, 67, 44, 27, 81, 90, 12};
+       int[] vetorA = {56, 78, 32, 15, 67, 44, 27, 81, 90, 14};
        double impar = 0;
        double par = 0;
        double percentualP;
