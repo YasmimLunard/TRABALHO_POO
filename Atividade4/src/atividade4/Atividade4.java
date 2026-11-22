@@ -23,8 +23,8 @@ public class Atividade4 {
          percentualP = (par * 100.0) / 10;
            percentualIm = (impar * 100.0) / 10;
            
-           System.out.println("O percentual de números pares é: " +String.format("%.2f", percentualP));
-           System.out.println("O percentual de números impares é: "  +String.format("%.2f", percentualIm));
+           System.out.println("O percentual de números pares é: " +percentualP+ "%");
+           System.out.println("O percentual de números impares é: " +percentualIm+ "%");
           
     }
     
