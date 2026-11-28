@@ -27,10 +27,7 @@ public class Atividade6 {
             
         }
       }
-       System.out.println(Arrays.toString(Ai));
            System.out.println(Arrays.toString(Bi));
-
-  
     }
     
 }
